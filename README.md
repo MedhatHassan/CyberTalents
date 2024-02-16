@@ -27,5 +27,22 @@ Explore the challenges and their corresponding solutions categorized by topic:
 ## Getting Started
 
 1. **Clone the Repository:**
-   ```bash
+```bash
    git clone https://github.com/MedhatHassan/Cyber-Talents-Laps.git
+```
+2. **Navigate to a Specific Challenge:**
+```bash
+cd Cyber-Talents-Laps/Category/ChallengeName
+```
+3. **Explore the Write-ups:** <br>
+Review the solution files and write-ups to understand the approach and techniques used to solve the challenges.
+
+# Contributing
+Contributions are welcome! If you have additional write-ups or solutions for challenges that are not covered, feel free to contribute.
+
+# Contact
+If you have any questions or suggestions, feel free to reach out:
+
+Author: Medhat Hassan
+Email: Eng.MedhatHassanAli@gmail.com
+Happy learning and happy hacking!
