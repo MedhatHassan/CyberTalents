@@ -1,0 +1,40 @@
+Nmap scan report for ec2-13-56-150-8.us-west-1.compute.amazonaws.com (13.56.150.8)
+Host is up (0.22s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT    STATE SERVICE     VERSION
+22/tcp  open  ssh         OpenSSH 8.9p1 Ubuntu 3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   256 c4:36:c9:5a:84:d1:95:29:5d:0e:67:ba:c3:e1:4c:22 (ECDSA)
+|_  256 4f:24:87:94:12:93:1c:94:fa:57:e0:c8:87:d8:2d:b7 (ED25519)
+80/tcp  open  http        Apache httpd 2.4.29 ((Unix))
+|_http-title: Site doesn't have a title (text/html).
+| http-methods: 
+|_  Potentially risky methods: TRACE
+|_http-server-header: Apache/2.4.29 (Unix)
+139/tcp open  netbios-ssn Samba smbd 3.X - 4.X (workgroup: WORKGROUP)
+445/tcp open  ��w�4V      Samba smbd 4.5.9 (workgroup: WORKGROUP)
+Service Info: Host: HACKEDSAMBA; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Host script results:
+|_clock-skew: mean: 1s, deviation: 2s, median: 0s
+| smb2-time: 
+|   date: 2023-10-20T21:09:58
+|_  start_date: N/A
+| smb-os-discovery: 
+|   OS: Windows 6.1 (Samba 4.5.9)
+|   Computer name: 5fa0559dbf2b
+|   NetBIOS computer name: HACKEDSAMBA\x00
+|   Domain name: \x00
+|   FQDN: 5fa0559dbf2b
+|_  System time: 2023-10-20T21:10:01+00:00
+| smb-security-mode: 
+|   account_used: guest
+|   authentication_level: user
+|   challenge_response: supported
+|_  message_signing: disabled (dangerous, but default)
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 51.72 seconds

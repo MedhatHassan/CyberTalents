@@ -1,0 +1,21 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+URL_BASE: http://184.169.231.94/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+
+-----------------
+
+*** Generating Wordlist...
+                                                                               
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://184.169.231.94/ ----
+http://184.169.231.94/index.html
+http://184.169.231.94/index.php                       
+-----------------
+
+DOWNLOADED: 4612 - FOUND: 2

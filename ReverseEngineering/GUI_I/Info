@@ -1,0 +1,41 @@
+ExifTool Version Number         : 12.63
+File Name                       : GUI.exe
+Directory                       : .
+File Size                       : 11 kB
+File Modification Date/Time     : 2024:01:19 14:07:20-05:00
+File Access Date/Time           : 2024:01:19 14:12:54-05:00
+File Inode Change Date/Time     : 2024:01:19 14:12:52-05:00
+File Permissions                : -rwx--x--x
+File Type                       : Win32 EXE
+File Type Extension             : exe
+MIME Type                       : application/octet-stream
+Machine Type                    : Intel 386 or later, and compatibles
+Time Stamp                      : 2017:01:25 13:09:43-05:00
+Image File Characteristics      : Executable, 32-bit
+PE Type                         : PE32
+Linker Version                  : 11.0
+Code Size                       : 8704
+Initialized Data Size           : 2048
+Uninitialized Data Size         : 0
+Entry Point                     : 0x404e
+OS Version                      : 4.0
+Image Version                   : 0.0
+Subsystem Version               : 6.0
+Subsystem                       : Windows GUI
+File Version Number             : 1.0.0.0
+Product Version Number          : 1.0.0.0
+File Flags Mask                 : 0x003f
+File Flags                      : (none)
+File OS                         : Win32
+Object File Type                : Executable application
+File Subtype                    : 0
+Language Code                   : Neutral
+Character Set                   : Unicode
+File Description                : WindowsFormsApplication2
+File Version                    : 1.0.0.0
+Internal Name                   : WindowsFormsApplication2.exe
+Legal Copyright                 : Copyright ©  2017
+Original File Name              : WindowsFormsApplication2.exe
+Product Name                    : WindowsFormsApplication2
+Product Version                 : 1.0.0.0
+Assembly Version                : 1.0.0.0
