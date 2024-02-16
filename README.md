@@ -43,6 +43,6 @@ Contributions are welcome! If you have additional write-ups or solutions for cha
 # Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Author: Medhat Hassan
-Email: Eng.MedhatHassanAli@gmail.com
-Happy learning and happy hacking!
+Author: Medhat Hassan <br>
+Email: Eng.MedhatHassanAli@gmail.com <br><br>
+Happy learning and happy hacking‼️
