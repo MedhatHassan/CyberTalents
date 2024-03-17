@@ -1,7 +1,9 @@
 # Solve Find the Pass
 ##### https://cybertalents.com/challenges/malware/Find-the-pass
 Try to run the exe 
-![Run](images/image.png)
+<br>
+
+![Run](image.png)
 
 The program try to get a password from the user and check if it correct or not.  
 
