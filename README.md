@@ -5,7 +5,6 @@ Welcome to the Cyber Talents Laps repository! This project contains solutions an
 - [Challenges](#challenges)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Challenges
