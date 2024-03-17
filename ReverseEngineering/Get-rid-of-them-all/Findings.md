@@ -2,7 +2,8 @@
 
 ##### https://cybertalents.com/challenges/malware/get-rid-of-them-all
 Try to run: 
-![Alt text](image.png)
+<br>
+![Alt text](images/image.png)
 
 Get the file info via `exiftool get-rid-of-them-all`
 *You can find the output in Info file* 
@@ -72,7 +73,8 @@ It calls the _1 method of the objectRef instance, passing Ctf.flag as an argumen
 Finally prints the result stored in pSVar1.
 
 Try to run the program with 10 arguments.
-![Alt text](image-1.png)
+<br>
+![Alt text](images/image-1.png)
 
 The **Decompiled clinit** function:
 ```
