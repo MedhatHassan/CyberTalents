@@ -41,8 +41,7 @@ Review the solution files and write-ups to understand the approach and technique
 Contributions are welcome! If you have additional write-ups or solutions for challenges that are not covered, feel free to contribute.
 
 # Contact
-If you have any questions or suggestions, feel free to reach out:
+If you have any questions or suggestions, feel free to reach out
 
-Author: Medhat Hassan <br>
 Email: Eng.MedhatHassanAli@gmail.com <br><br>
 Happy learning and happy hacking‼️
