@@ -35,7 +35,7 @@ Common escape sequences in PHP include:
 - `\t` for a tab
 - `\r` for a carriage return
 
-*More about escape characters https://stackoverflow.com/questions/767714/how-to-escape-in-php-using-preg-replace*
+*More about escape characters [stackoverflow](https://stackoverflow.com/questions/767714/how-to-escape-in-php-using-preg-replace)*
 ##### try to use it 
 ![Alt text](images/image-3.png)
 **it bypassed!!!**
@@ -43,5 +43,11 @@ Common escape sequences in PHP include:
 database -> `MariaDB`
 Payload: 
 ```SELECT * FROM users where name=\' AND password=OR 1=1# ```
+Note that in PHP `$var` put the strings between '' 
+The full sql query:
+``` sql
+    SELECT * FROM users where name = ''' and password = 'OR 1=1#'
+```
+Note that we Skiped `and password =` as string So MariaDB will understand it as string(any value) OR 1=1 so it will return `true`.  
 
 >Find More on ==> github.com/MedhatHassan 
