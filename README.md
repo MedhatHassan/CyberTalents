@@ -1,4 +1,6 @@
 # Cyber-Talents-Laps
+![cyber talents](https://scontent.fcai20-4.fna.fbcdn.net/v/t1.6435-9/31946402_583504118692520_6217416751001370624_n.jpg?stp=dst-jpg_p180x540&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1QAhfKosxuoAX8Chx9v&_nc_ht=scontent.fcai20-4.fna&oh=00_AfAgjMeIctJXvjuSrMEEt2eVON_Hm4GB8uODjMv7YG-WDw&oe=661FAA76)
+
 Welcome to the Cyber Talents Laps repository! This project contains solutions and write-ups for various challenges from the Cyber Talents platform.
 
 ## Table of Contents
