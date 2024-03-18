@@ -1,3 +1,6 @@
+# Solve Cool Name Effect
+### https://cybertalents.com/challenges/web/cool-name-effect
+
 We find that our input reflected in the page 
 We Try XXS normal payload `<script>alert(1)</script>`
 
