@@ -21,7 +21,12 @@ Explore the challenges and their corresponding solutions categorized by topic:
 - [Machines](Machines)
   - [Shadower](Machines/shadower/Findings.md)  
   - [Bruteforce Me](Machines/version/Findings.md)  
-- [web](Web/bypasstheworld/Findings.md)
+- [web](Web)
+  - [bypass the world](Web/bypasstheworld/Findings.md)   
+  - [Admin has the power](Web/Adminhasthepower/Findings.md)   
+  - [I am Legend](Web/IamLegend/Findings.md)   
+  - [The Restricted Sessions](Web/TheRestrictedSessions/Finindings.md)   
+  - [The Restricted Sessions](Web/TheRestrictedSessions/Finindings.md)   
 
 ## Getting Started
 
