@@ -28,7 +28,7 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [Admin has the power](Web/Adminhasthepower/Findings.md)   
   - [I am Legend](Web/IamLegend/Findings.md)   
   - [The Restricted Sessions](Web/TheRestrictedSessions/Findings.md)   
-  - [Cool Name Effect](Web/CoolNameEffect/Finindings.md)   
+  - [Cool Name Effect](Web/CoolNameEffect/Findings.md)   
 
 ## Getting Started
 
