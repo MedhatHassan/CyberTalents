@@ -24,11 +24,14 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [Shadower](Machines/shadower/Findings.md)  
   - [Bruteforce Me](Machines/version/Findings.md)  
 - [web](Web)
-  - [bypass the world](Web/bypasstheworld/Findings.md)   
   - [Admin has the power](Web/Adminhasthepower/Findings.md)   
+  - [Cool Name Effect](Web/CoolNameEffect/Findings.md)   
+  - [Encrypted Database](Web/EncryptedDatabase/Findings.md)   
+  - [Easy access](Web/EasyAcess/Findings.md)   
+  - [Hashable](Web/Hashable/Findings.md)   
   - [I am Legend](Web/IamLegend/Findings.md)   
   - [The Restricted Sessions](Web/TheRestrictedSessions/Findings.md)   
-  - [Cool Name Effect](Web/CoolNameEffect/Findings.md)   
+  - [bypass the world](Web/bypasstheworld/Findings.md)   
 
 ## Getting Started
 
