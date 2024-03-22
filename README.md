@@ -23,7 +23,7 @@ Explore the challenges and their corresponding solutions categorized by topic:
 - [Machines](Machines)
   - [Shadower](Machines/shadower/Findings.md)  
   - [Bruteforce Me](Machines/version/Findings.md)  
-- [web](Web)
+- [Web](Web)
   - [Admin has the power](Web/Adminhasthepower/Findings.md)   
   - [Cool Name Effect](Web/CoolNameEffect/Findings.md)   
   - [Encrypted Database](Web/EncryptedDatabase/Findings.md)   
@@ -32,7 +32,13 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [I am Legend](Web/IamLegend/Findings.md)   
   - [The Restricted Sessions](Web/TheRestrictedSessions/Findings.md)   
   - [bypass the world](Web/bypasstheworld/Findings.md)   
-
+- [Cryptography](Cryptography)
+  - [Hide Data](Cryptography/HideData/Findings.md)   
+  - [Louder](Cryptography/Louder/Findings.md)   
+  - [Postbase](Cryptography/Postbase/Findings.md)   
+  - [RSA 101](Cryptography/RSA101/Findings.md)
+  - [UP](Cryptography/UP/Findings.md)
+    
 ## Getting Started
 
 1. **Clone the Repository:**
