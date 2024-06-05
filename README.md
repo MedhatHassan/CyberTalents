@@ -4,13 +4,11 @@
 Welcome to the Cyber Talents Laps repository! This project contains solutions and write-ups for various challenges from the Cyber Talents platform.
 
 ## Table of Contents
-- [Cyber-Talents-Laps](#cyber-talents-laps)
-  - [Table of Contents](#table-of-contents)
-  - [Challenges](#challenges)
-  - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Contact](#contact)
-    - [DROP a star 🌟 if you find it helpful. Happy learning and happy hacking‼️](#drop-a-star--if-you-find-it-helpful-happy-learning-and-happy-hacking️)
+
+ - [Challenges](#challenges)
+ - [Getting Started](#getting-started)
+ - [Contributing](#contributing)
+ - [Contact](#contact)
 
 ## Challenges
 Explore the challenges and their corresponding solutions categorized by topic:
