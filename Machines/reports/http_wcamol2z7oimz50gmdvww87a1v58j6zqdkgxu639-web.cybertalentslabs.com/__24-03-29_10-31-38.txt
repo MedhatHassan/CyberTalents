@@ -1,0 +1,5 @@
+# Dirsearch started Fri Mar 29 10:33:11 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://wcamol2z7oimz50gmdvww87a1v58j6zqdkgxu639-web.cybertalentslabs.com/ -x 403,404
+
+200     1KB  http://wcamol2z7oimz50gmdvww87a1v58j6zqdkgxu639-web.cybertalentslabs.com/favicon.ico
+200    24B   http://wcamol2z7oimz50gmdvww87a1v58j6zqdkgxu639-web.cybertalentslabs.com/robots.txt
+301   419B   http://wcamol2z7oimz50gmdvww87a1v58j6zqdkgxu639-web.cybertalentslabs.com/static    -> REDIRECTS TO: http://wcamol2z7oimz50gmdvww87a1v58j6zqdkgxu639-web.cybertalentslabs.com/static/

@@ -1,0 +1,3 @@
+# Dirsearch started Sat May  4 09:34:25 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://wcamxwl32pue3e6m4nzy586unzkmj6zqdkgxu639-web.cybertalentslabs.com/ -x 403,404
+
+200     0B   http://wcamxwl32pue3e6m4nzy586unzkmj6zqdkgxu639-web.cybertalentslabs.com/flag.php

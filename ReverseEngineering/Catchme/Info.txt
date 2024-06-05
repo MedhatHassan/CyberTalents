@@ -1,0 +1,24 @@
+ExifTool Version Number         : 12.76
+File Name                       : catchme.exe
+Directory                       : .
+File Size                       : 39 kB
+File Modification Date/Time     : 2024:05:26 17:26:34-04:00
+File Access Date/Time           : 2024:05:26 17:27:18-04:00
+File Inode Change Date/Time     : 2024:05:26 17:27:10-04:00
+File Permissions                : -rwxrw-rw-
+File Type                       : Win32 EXE
+File Type Extension             : exe
+MIME Type                       : application/octet-stream
+Machine Type                    : Intel 386 or later, and compatibles
+Time Stamp                      : 2018:03:04 01:40:58-05:00
+Image File Characteristics      : Executable, 32-bit
+PE Type                         : PE32
+Linker Version                  : 14.12
+Code Size                       : 20992
+Initialized Data Size           : 17920
+Uninitialized Data Size         : 0
+Entry Point                     : 0x11055
+OS Version                      : 6.0
+Image Version                   : 0.0
+Subsystem Version               : 6.0
+Subsystem                       : Windows command line

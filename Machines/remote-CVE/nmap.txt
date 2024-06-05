@@ -1,0 +1,40 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-03-29 09:41 EDT
+Stats: 0:01:44 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
+Nmap scan report for ec2-54-67-120-72.us-west-1.compute.amazonaws.com (54.67.120.72)
+Host is up (0.21s latency).
+Not shown: 65527 filtered tcp ports (no-response)
+PORT      STATE SERVICE       VERSION
+135/tcp   open  msrpc         Microsoft Windows RPC
+139/tcp   open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds?
+3389/tcp  open  ms-wbt-server Microsoft Terminal Services
+|_ssl-date: 2024-03-29T13:49:57+00:00; -1s from scanner time.
+| ssl-cert: Subject: commonName=EC2AMAZ-G6R23LO
+| Not valid before: 2024-03-28T13:35:20
+|_Not valid after:  2024-09-27T13:35:20
+| rdp-ntlm-info: 
+|   Target_Name: EC2AMAZ-G6R23LO
+|   NetBIOS_Domain_Name: EC2AMAZ-G6R23LO
+|   NetBIOS_Computer_Name: EC2AMAZ-G6R23LO
+|   DNS_Domain_Name: EC2AMAZ-G6R23LO
+|   DNS_Computer_Name: EC2AMAZ-G6R23LO
+|   Product_Version: 10.0.17763
+|_  System_Time: 2024-03-29T13:49:39+00:00
+34202/tcp open  unknown
+47001/tcp open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-title: Not Found
+|_http-server-header: Microsoft-HTTPAPI/2.0
+49666/tcp open  msrpc         Microsoft Windows RPC
+49687/tcp open  msrpc         Microsoft Windows RPC
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-security-mode: 
+|   3:1:1: 
+|_    Message signing enabled but not required
+| smb2-time: 
+|   date: 2024-03-29T13:49:39
+|_  start_date: N/A
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 511.99 seconds

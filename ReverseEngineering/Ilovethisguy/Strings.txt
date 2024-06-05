@@ -1,0 +1,176 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+Button1
+TextBox1
+<Module>
+mscorlib
+connectionId
+_contentLoaded
+Synchronized
+UriKind
+defaultInstance
+RuntimeTypeHandle
+GetTypeFromHandle
+Type
+PresentationCore
+get_Culture
+set_Culture
+resourceCulture
+ButtonBase
+ApplicationSettingsBase
+EditorBrowsableState
+STAThreadAttribute
+CompilerGeneratedAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+ThemeInfoAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+value
+FirstWPFApp.exe
+System.Runtime.Versioning
+String
+set_StartupUri
+add_Click
+Button_Click
+PresentationFramework
+System.ComponentModel
+System.Xaml
+System
+resourceMan
+Main
+Application
+ResourceDictionaryLocation
+System.Configuration
+System.Globalization
+System.Reflection
+Button
+CultureInfo
+FirstWPFApp
+System.Windows.Markup
+Char
+sender
+get_ResourceManager
+RoutedEventHandler
+System.CodeDom.Compiler
+.ctor
+.cctor
+IComponentConnector
+System.Diagnostics
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+System.Resources
+FirstWPFApp.g.resources
+FirstWPFApp.Properties.Resources.resources
+DebuggingModes
+FirstWPFApp.Properties
+System.Windows.Controls.Primitives
+Settings
+RoutedEventArgs
+Equals
+System.Windows.Controls
+Letters
+System.Windows
+Object
+System.Windows.Markup.IComponentConnector.Connect
+target
+get_Default
+MessageBoxResult
+LoadComponent
+InitializeComponent
+get_Text
+MainWindow
+Show
+MessageBox
+TextBox
+ToCharArray
+get_Assembly
+WrapNonExceptionThrows
+FirstWPFApp
+Copyright 
+  2018
+1.0.0.0
+.NETFramework,Version=v4.6.1
+FrameworkDisplayName
+.NET Framework 4.6.1
+PresentationBuildTasks
+4.0.0.0
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+11.0.0.0
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+BFirstWPFApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+clr-namespace:FirstWPFApp
+FirstWPFApp
+FirstWPFApp.MainWindow
+XPresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+NWindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+SPresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+9http://schemas.microsoft.com/winfx/2006/xaml/presentation
+NSystem.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+x,http://schemas.microsoft.com/winfx/2006/xaml
+d2http://schemas.microsoft.com/expression/blend/2008
+mc;http://schemas.openxmlformats.org/markup-compatibility/2006
+local
+clr-namespace:FirstWPFApp
+Title$(
+"Scrambled Egg - Top Secret Flag!!!
+150.411
+661.918
+ColumnDefinitions
+278*
+Password
+Left=
+	45,48,0,0q
+Top=
+Name$
+TextBox1
+Left=
+	17,52,0,0q
+TextWrapping$
+Wrap=
+Top=
+Name$
+Button1
+Get Flag!!
+Left=
+448,52,0,0q
+Top=
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+RSDS
+c:\users\fady\source\repos\FirstWPFApp\FirstWPFApp\obj\Release\FirstWPFApp.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
