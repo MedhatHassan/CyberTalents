@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="abc_action_bar_default_height_material">64.0dip</dimen>
-    <dimen name="abc_action_bar_default_padding_material">4.0dip</dimen>
-    <dimen name="abc_text_size_subtitle_material_toolbar">16.0dip</dimen>
-    <dimen name="abc_text_size_title_material_toolbar">20.0dip</dimen>
-    <dimen name="abc_config_prefDialogWidth">580.0dip</dimen>
-</resources>
