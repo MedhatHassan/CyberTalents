@@ -5,10 +5,13 @@ Welcome to the Cyber Talents Laps repository! This project contains solutions an
 
 ## Table of Contents
 
- - [Challenges](#challenges)
- - [Getting Started](#getting-started)
- - [Contributing](#contributing)
- - [Contact](#contact)
+- [Cyber-Talents-Laps](#cyber-talents-laps)
+  - [Table of Contents](#table-of-contents)
+  - [Challenges](#challenges)
+  - [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [Contact](#contact)
+    - [DROP a star 🌟 if you find it helpful. Happy learning and happy hacking‼️](#drop-a-star--if-you-find-it-helpful-happy-learning-and-happy-hacking️)
 
 ## Challenges
 Explore the challenges and their corresponding solutions categorized by topic:
@@ -38,7 +41,7 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [Admin has the power](Web/Adminhasthepower/Findings.md)   
   - [Cool Name Effect](Web/CoolNameEffect/Findings.md)   
   - [Encrypted Database](Web/EncryptedDatabase/Findings.md)   
-  - [Easy access](Web/EasyAcess/Findings.md)   
+  - [Easy access](Web/EasyAccess/Findings.md)   
   - [Hashable](Web/Hashable/Findings.md)   
   - [I am Legend](Web/IamLegend/Findings.md)   
   - [The Restricted Sessions](Web/TheRestrictedSessions/Findings.md)   
