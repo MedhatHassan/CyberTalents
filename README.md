@@ -29,6 +29,7 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [Elementary](ReverseEngineering/Elementary/Findings.md)
   - [I love this guy](ReverseEngineering/Ilovethisguy/Findings.md)
   - [pass](ReverseEngineering/pass/Findings.md)
+  - [Cloak and Dagger](ReverseEngineering/CloakandDagger/Findings.md)
   
 - [Machines](Machines)
   - [Shadower](Machines/shadower/Findings.md)  
