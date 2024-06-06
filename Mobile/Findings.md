@@ -67,3 +67,5 @@ So the credentials are LegolasSaruman
 ``` bash 
 echo -n "LegolasSaruman" | md5sum 
 ```
+
+>Find More on ==> github.com/MedhatHassan 

@@ -3,9 +3,9 @@
 
 ### Try to run
 ![alt text](images/image.png)
-Get the file info via `exiftool elementary`
+Get the file info via `exiftool Cloak+and+Dagger.exe`
 *You can find the output in [Info](Info.txt) file* 
-Dump file strings with `strings elementary`
+Dump file strings with `strings Cloak+and+Dagger.exe`
 *You can find the output in [strings](Strings.txt) file* 
 Via analyzing strings file we found interesting keywords.
 ```
@@ -21,7 +21,7 @@ Via analyzing strings file we found interesting keywords.
   </trustInfo>
 ```
 
-From this data the code is writen in C#
+From this data the code is developed in C#
 
 ### Analyze the file with dotPeek:
 
@@ -153,3 +153,5 @@ check for the bytes at the previous indices array `FF0003060C1204121212000100C40
 Note you must extract appended files first.
 
 ![alt text](images/image-2.png)
+
+>Find More on ==> github.com/MedhatHassan 
