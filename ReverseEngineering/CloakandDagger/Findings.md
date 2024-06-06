@@ -2,7 +2,7 @@
 #### https://cybertalents.com/challenges/malware/cloak-dagger
 
 ### Try to run
-![alt text](image.png)
+![alt text](images/image.png)
 Get the file info via `exiftool elementary`
 *You can find the output in [Info](Info.txt) file* 
 Dump file strings with `strings elementary`
@@ -26,7 +26,7 @@ From this data the code is writen in C#
 ### Analyze the file with dotPeek:
 
 Program tree structure:
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 #### The Decompiled main function:
 ```
@@ -152,4 +152,4 @@ check for the bytes at the previous indices array `FF0003060C1204121212000100C40
 *Code is in [FindFile.py](FindFile.py) file*
 Note you must extract appended files first.
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
