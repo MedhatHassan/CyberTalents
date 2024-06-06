@@ -23,7 +23,7 @@ private static void Main()
       Application.Run((Form) new Form1());
     }
 ```
-The main runs Form1
+The main create a Form1 object from Form class
 
 The **Decompiled ShallHePass** function:
 ```
