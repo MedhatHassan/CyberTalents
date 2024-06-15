@@ -1,0 +1,10 @@
+# Dirsearch started Thu Jun 13 19:13:09 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://wcamxwl32pue3e6mekgvdm0h9vrqj6zqdkgxu639-web.cybertalentslabs.com -x 403,404
+
+200     3KB  http://wcamxwl32pue3e6mekgvdm0h9vrqj6zqdkgxu639-web.cybertalentslabs.com/about.php
+200   605B   http://wcamxwl32pue3e6mekgvdm0h9vrqj6zqdkgxu639-web.cybertalentslabs.com/footer.php
+200     1KB  http://wcamxwl32pue3e6mekgvdm0h9vrqj6zqdkgxu639-web.cybertalentslabs.com/gulpfile.js
+200     2KB  http://wcamxwl32pue3e6mekgvdm0h9vrqj6zqdkgxu639-web.cybertalentslabs.com/header.php
+200     3KB  http://wcamxwl32pue3e6mekgvdm0h9vrqj6zqdkgxu639-web.cybertalentslabs.com/login.php
+200     2KB  http://wcamxwl32pue3e6mekgvdm0h9vrqj6zqdkgxu639-web.cybertalentslabs.com/logout.php
+200   949B   http://wcamxwl32pue3e6mekgvdm0h9vrqj6zqdkgxu639-web.cybertalentslabs.com/package.json
+200     2KB  http://wcamxwl32pue3e6mekgvdm0h9vrqj6zqdkgxu639-web.cybertalentslabs.com/profile.php
