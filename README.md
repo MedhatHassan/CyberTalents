@@ -57,6 +57,7 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [Esay Message](Web/easy-message/Findings.md)
   - [concmarks](Web/concmarks/Findings.md)
   - [private-agent](Web/private-agent/Findings.md)
+  - [comrade III](Web/comrade-iii/Findings.md)
 - [Cryptography](Cryptography)
   - [Hide Data](Cryptography/HideData/Findings.md)   
   - [Louder](Cryptography/Louder/Findings.md)   
