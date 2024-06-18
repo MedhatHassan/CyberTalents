@@ -1,0 +1,14 @@
+301   286B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git    -> REDIRECTS TO: http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/
+200    19B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/COMMIT_EDITMSG
+200    92B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/config
+200    73B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/description
+200    23B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/HEAD
+200   369B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/index
+200   240B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/info/exclude
+200   324B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/logs/HEAD
+301   296B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/logs/refs    -> REDIRECTS TO: http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/logs/refs/
+200   324B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/logs/refs/heads/master
+301   302B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/logs/refs/heads    -> REDIRECTS TO: http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/logs/refs/heads/
+200    41B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/refs/heads/master
+301   297B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/refs/heads    -> REDIRECTS TO: http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/refs/heads/
+301   296B   http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/refs/tags    -> REDIRECTS TO: http://wcamxwl32pue3e6mk873o1muw3y0j6zqdkgxu639-web.cybertalentslabs.com/.git/refs/tags/
