@@ -1,0 +1,10 @@
+# Dirsearch started Tue Jun 18 17:49:27 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com -x 403,404 -o /home/m_1337/Downloads/Cyber-Talents-Laps/Web/silly-doors/Directories.txt
+
+301   415B   http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/js    -> REDIRECTS TO: http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/js/
+200     0B   http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/config.php
+301   416B   http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/css    -> REDIRECTS TO: http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/css/
+301   418B   http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/fonts    -> REDIRECTS TO: http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/fonts/
+301   419B   http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/images    -> REDIRECTS TO: http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/images/
+301   420B   http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/profile    -> REDIRECTS TO: http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/profile/
+200    88B   http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/robots.txt
+200   795B   http://wcamxwl32pue3e6mkm73pe2cqzqwj6zqdkgxu639-web.cybertalentslabs.com/signup.php
