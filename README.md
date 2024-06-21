@@ -65,6 +65,8 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [X Corp](Web/x-corp/Findings.md)
   - [Got Controls](Web/got-controls/Findings.md)
   - [Who Is Admin](Web/WhoIsAdmin/Findings.md)
+  - [Book Lover](Web/book-lover/Findings.md)
+  - [Screenshot](Web/screenshot/Findings.md)
 - [Cryptography](Cryptography)
   - [Hide Data](Cryptography/HideData/Findings.md)   
   - [Louder](Cryptography/Louder/Findings.md)   
