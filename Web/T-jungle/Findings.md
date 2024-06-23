@@ -56,14 +56,43 @@ It then compares $input_hash with the hardcoded hash `'0e51419842136752308227638
 If the hash comparison results in a match `($input_hash == '0e514198421367523082276382979135' evaluates to true)`, the code displays **"ACCESS GRANTED"** along with the content of `$flag`.
 If the hash comparison fails (no match), it displays **"ACCESS DENIED"**.
 
+### Try to crack the hash 
+`hashcat -a 0 -m 0 hash /usr/share/wordlists/rockyou.txt` but we coudn't crack it with rockyou.
+
 ### Hash Comparison:
 The comparison `if ($input_hash == '0e514198421367523082276382979135')` is interesting because the hardcoded hash value '0e514198421367523082276382979135' starts with '0e'. In PHP, when comparing strings that start with `'0e'` using `==` **(loose comparison)**, PHP treats them as numerical strings due to its type conversion rules. This can lead to unexpected behavior because PHP may interpret such strings as 0e... (e.g., 0e1234 is treated as 0 in numeric context).
 
+#### To check try 
+```php
+<?php
+   if (0 == '0e514198421367523082276382979135'){
+    echo "pass";
+     
+   }
+   else{
+   echo "Wrong!";
+   }
+?>
+```
+Output : pass
+#### Use the hash collision
+```php
+<?php
+$passwd = '240610708';
+if (hash("md5", $passwd) == '0e514198421367523082276382979135') {
+    echo "The hash matches!";
+} else {
+    echo "The hash does not match.";
+}
+?>
+```
+Output : The hash matches!
+Note: that hash of `240610708` is `0e462097431906509019562988736854` which is = `0 `in php
 ### Try to add passwd prameter
+![alt text](image-2.png)
 
-![alt text](image-1.png)
+### Resources
+[hash function documentation](https://www.php.net/manual/en/function.hash.php)
+[hash collision](https://en.wikipedia.org/wiki/Hash_collision#:~:text=In%20computer%20science%2C%20a%20hash,a%20fixed%20length%20of%20bits.)
 
-### Try to crack the hash 
-`hashcat -a 0 -m 0 hash /usr/share/wordlists/rockyou.txt` but we coudn't crack it with rockyou.
- 
 >Find More on ==> github.com/MedhatHassan 
