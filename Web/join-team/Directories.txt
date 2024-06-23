@@ -1,0 +1,5 @@
+# Dirsearch started Sun Jun 23 12:26:09 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://wcamxwl32pue3e6m86dv92kb4zlgj6zqdkgxu639-web.cybertalentslabs.com -x 403,404 -o /home/m_1337/Downloads/Cyber-Talents-Laps/Web/join-team/Directories.txt
+
+200     1KB  http://wcamxwl32pue3e6m86dv92kb4zlgj6zqdkgxu639-web.cybertalentslabs.com/about
+200   795B   http://wcamxwl32pue3e6m86dv92kb4zlgj6zqdkgxu639-web.cybertalentslabs.com/home
+200   323B   http://wcamxwl32pue3e6m86dv92kb4zlgj6zqdkgxu639-web.cybertalentslabs.com/jobs

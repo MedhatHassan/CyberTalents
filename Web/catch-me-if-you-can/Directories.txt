@@ -1,0 +1,5 @@
+# Dirsearch started Sun Jun 23 11:00:25 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://wcamxwl32pue3e6mxmqvrwdh2zokj6zqdkgxu639-web.cybertalentslabs.com -x 403,404 -o /home/m_1337/Downloads/Cyber-Talents-Laps/Web/catch-me-if-you-can/Directories.txt
+
+200     0B   http://wcamxwl32pue3e6mxmqvrwdh2zokj6zqdkgxu639-web.cybertalentslabs.com/flag.php
+200    61B   http://wcamxwl32pue3e6mxmqvrwdh2zokj6zqdkgxu639-web.cybertalentslabs.com/robots.txt
+200     2KB  http://wcamxwl32pue3e6mxmqvrwdh2zokj6zqdkgxu639-web.cybertalentslabs.com/source.php

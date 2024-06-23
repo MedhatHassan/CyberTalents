@@ -70,6 +70,8 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [Owls blog](Web/owls-blog/Findings.md)
   - [Big number](Web/big-number/Findings.md)
   - [Catchtoka](Web/catchtoka/Findings.md)
+  - [catch me if you can](Web/catch-me-if-you-can/Findings.md)
+  - [join team](Web/join-team/Findings.md)
 - [Cryptography](Cryptography)
   - [Hide Data](Cryptography/HideData/Findings.md)   
   - [Louder](Cryptography/Louder/Findings.md)   
