@@ -1,0 +1,4 @@
+# Dirsearch started Mon Jun 24 16:07:12 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://54.193.192.130/ -x 403,404 -o /home/m_1337/Downloads/Cyber-Talents-Laps/Web/hidden/Directories.txt
+
+301   317B   http://54.193.192.130/secret    -> REDIRECTS TO: http://54.193.192.130/secret/
+200   181B   http://54.193.192.130/secret/

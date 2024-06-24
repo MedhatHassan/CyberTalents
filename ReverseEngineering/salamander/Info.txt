@@ -1,0 +1,44 @@
+ExifTool Version Number         : 12.76
+File Name                       : salamander.exe
+Directory                       : .
+File Size                       : 8.7 kB
+File Modification Date/Time     : 2024:06:24 15:29:12-04:00
+File Access Date/Time           : 2024:06:24 15:29:34-04:00
+File Inode Change Date/Time     : 2024:06:24 15:30:14-04:00
+File Permissions                : -rw-------
+File Type                       : Win32 EXE
+File Type Extension             : exe
+MIME Type                       : application/octet-stream
+Machine Type                    : Intel 386 or later, and compatibles
+Time Stamp                      : 2063:11:24 05:26:50-05:00
+Image File Characteristics      : Executable, Large address aware
+PE Type                         : PE32
+Linker Version                  : 48.0
+Code Size                       : 6144
+Initialized Data Size           : 2048
+Uninitialized Data Size         : 0
+Entry Point                     : 0x371a
+OS Version                      : 4.0
+Image Version                   : 0.0
+Subsystem Version               : 6.0
+Subsystem                       : Windows GUI
+File Version Number             : 1.0.0.0
+Product Version Number          : 1.0.0.0
+File Flags Mask                 : 0x003f
+File Flags                      : (none)
+File OS                         : Win32
+Object File Type                : Executable application
+File Subtype                    : 0
+Language Code                   : Neutral
+Character Set                   : Unicode
+Comments                        : 
+Company Name                    : 
+File Description                : Challenge
+File Version                    : 1.0.0.0
+Internal Name                   : Challenge.exe
+Legal Copyright                 : Copyright ©  2020
+Legal Trademarks                : 
+Original File Name              : Challenge.exe
+Product Name                    : Challenge
+Product Version                 : 1.0.0.0
+Assembly Version                : 1.0.0.0

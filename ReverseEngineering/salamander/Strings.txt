@@ -1,0 +1,162 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+PAs-
+*Z(6
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+label1
+Form1
+button1
+textBox1
+<Module>
+SizeF
+mscorlib
+Form1_Load
+add_Load
+textBox1_TextChanged
+add_TextChanged
+Synchronized
+defaultInstance
+set_AutoScaleMode
+get_Message
+Challenge
+IDisposable
+RuntimeTypeHandle
+GetTypeFromHandle
+set_Name
+get_UserName
+Type
+get_Culture
+set_Culture
+resourceCulture
+ButtonBase
+ApplicationSettingsBase
+Dispose
+EditorBrowsableState
+STAThreadAttribute
+CompilerGeneratedAttribute
+GuidAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+value
+Challenge.exe
+set_Size
+set_AutoSize
+set_ClientSize
+System.Runtime.Versioning
+String
+disposing
+System.Drawing
+label1_Click
+button1_Click
+add_Click
+Label
+System.ComponentModel
+ContainerControl
+Program
+System
+Form
+resourceMan
+Main
+Application
+set_Location
+System.Configuration
+System.Globalization
+System.Reflection
+ControlCollection
+Exception
+Button
+CultureInfo
+sender
+get_ResourceManager
+EventHandler
+System.CodeDom.Compiler
+IContainer
+set_UseVisualStyleBackColor
+.ctor
+.cctor
+System.Diagnostics
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+System.Resources
+Challenge.Form1.resources
+Challenge.Properties.Resources.resources
+DebuggingModes
+Challenge.Properties
+EnableVisualStyles
+Settings
+EventArgs
+get_Controls
+System.Windows.Forms
+set_AutoScaleDimensions
+components
+Format
+Object
+get_Default
+SetCompatibleTextRenderingDefault
+DialogResult
+Environment
+InitializeComponent
+Point
+SuspendLayout
+ResumeLayout
+PerformLayout
+get_Text
+set_Text
+Show
+set_TabIndex
+MessageBox
+TextBox
+get_Assembly
+op_Equality
+WrapNonExceptionThrows
+	Challenge
+Copyright 
+  2020
+$921413b0-05e0-479a-baf1-effc44133858
+1.0.0.0
+.NETFramework,Version=v4.7.2
+FrameworkDisplayName
+.NET Framework 4.7.2
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+11.0.0.0
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+RSDS
+C:\Users\moham\source\repos\Challenge\Challenge\obj\Release\Challenge.pdb
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>

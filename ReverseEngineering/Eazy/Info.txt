@@ -1,0 +1,25 @@
+ExifTool Version Number         : 12.76
+File Name                       : Eazy.exe
+Directory                       : .
+File Size                       : 46 kB
+File Modification Date/Time     : 2020:11:18 21:36:21-05:00
+File Access Date/Time           : 2024:06:24 15:43:29-04:00
+File Inode Change Date/Time     : 2024:06:24 15:43:45-04:00
+File Permissions                : -rwxrw-rw-
+File Type                       : Win32 EXE
+File Type Extension             : exe
+MIME Type                       : application/octet-stream
+Machine Type                    : Intel 386 or later, and compatibles
+Time Stamp                      : 2020:11:18 21:36:21-05:00
+Image File Characteristics      : No relocs, Executable, No line numbers, 32-bit
+PE Type                         : PE32
+Linker Version                  : 2.32
+Code Size                       : 12288
+Initialized Data Size           : 20992
+Uninitialized Data Size         : 512
+Entry Point                     : 0x12d0
+OS Version                      : 4.0
+Image Version                   : 1.0
+Subsystem Version               : 4.0
+Subsystem                       : Windows command line
+Warning                         : Error processing PE data dictionary

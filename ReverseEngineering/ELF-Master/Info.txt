@@ -1,0 +1,15 @@
+ExifTool Version Number         : 12.76
+File Name                       : ELF Master
+Directory                       : .
+File Size                       : 14 kB
+File Modification Date/Time     : 2021:05:24 01:40:33-04:00
+File Access Date/Time           : 2024:06:24 16:11:07-04:00
+File Inode Change Date/Time     : 2024:06:24 16:11:53-04:00
+File Permissions                : -rw-------
+File Type                       : ELF shared library
+File Type Extension             : so
+MIME Type                       : application/octet-stream
+CPU Architecture                : 64 bit
+CPU Byte Order                  : Little endian
+Object File Type                : Shared object file
+CPU Type                        : AMD x86-64

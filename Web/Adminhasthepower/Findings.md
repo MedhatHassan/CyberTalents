@@ -14,7 +14,7 @@ we found `user:support password:x34245323`
 #### By reviewing the Cookies 
 ![alt text](images/image4.png)
 
-CHange support into admin
+Change support into admin
 ![alt text](images/image5.png)
 
 flag `hiadminyouhavethepower`

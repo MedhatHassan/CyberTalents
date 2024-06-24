@@ -30,6 +30,10 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [I love this guy](ReverseEngineering/Ilovethisguy/Findings.md)
   - [pass](ReverseEngineering/pass/Findings.md)
   - [Cloak and Dagger](ReverseEngineering/CloakandDagger/Findings.md)
+  - [Find the hash](ReverseEngineering/Find-the-hash/Findings.md)
+  - [Salamander](ReverseEngineering/salamander/Findings.md)
+  - [Eazy](ReverseEngineering/Eazy/Findings.md)
+  - [ELF-Master](ReverseEngineering/ELF-Master/Findings.md)
   
 - [Machines](Machines)
   - [Shadower](Machines/shadower/Findings.md)  
@@ -72,6 +76,10 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [Catchtoka](Web/catchtoka/Findings.md)
   - [catch me if you can](Web/catch-me-if-you-can/Findings.md)
   - [join team](Web/join-team/Findings.md)
+  - [V13w3r](Web/v13w3r/Findings.md)
+  - [hidden](Web/hidden/Findings.md)
+  
+
 - [Cryptography](Cryptography)
   - [Hide Data](Cryptography/HideData/Findings.md)   
   - [Louder](Cryptography/Louder/Findings.md)   

@@ -1,0 +1,24 @@
+ExifTool Version Number         : 12.76
+File Name                       : Find-the-hash.exe
+Directory                       : .
+File Size                       : 9.2 kB
+File Modification Date/Time     : 2024:06:23 18:40:58-04:00
+File Access Date/Time           : 2024:06:23 18:41:29-04:00
+File Inode Change Date/Time     : 2024:06:23 18:43:53-04:00
+File Permissions                : -rw-------
+File Type                       : Win32 EXE
+File Type Extension             : exe
+MIME Type                       : application/octet-stream
+Machine Type                    : Intel 386 or later, and compatibles
+Time Stamp                      : 2020:02:18 08:10:06-05:00
+Image File Characteristics      : Executable, 32-bit
+PE Type                         : PE32
+Linker Version                  : 14.16
+Code Size                       : 3584
+Initialized Data Size           : 5120
+Uninitialized Data Size         : 0
+Entry Point                     : 0x141b
+OS Version                      : 6.0
+Image Version                   : 0.0
+Subsystem Version               : 6.0
+Subsystem                       : Windows command line

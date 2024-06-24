@@ -1,0 +1,155 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+h(!@
+h8%@
+Y_^[
+=E3@
+u"hH3@
+hT3@
+j Y+
+hX%@
+Y_^[
+=D3@
+hH3@
+h`3@
+8csm
+%h3@
+Y__^[
+%l3@
+Genu
+5ineI
+5ntel
+t#=`
+=p3@
+=p3@
+=p3@
+=p3@
+%4 @
+%8 @
+%| @
+%P @
+%` @
+%d @
+%\ @
+%X @
+%l @
+%H @
+%@ @
+%h @
+%p @
+%t @
+%x @
+%( @
+Enter Your Pass Key : 
+Correct Password
+Wrong Password
+RSDS
+eV!{i
+C:\Users\sherif_magdy\source\repos\CyberTalentDemo1\Release\CyberTalentDemo1.pdb
+GCTL
+.text$mn
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.bss
+.rsrc$01
+.rsrc$02
+memset
+_except_handler4_common
+VCRUNTIME140.dll
+__acrt_iob_func
+__stdio_common_vfprintf
+__stdio_common_vfscanf
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_configure_narrow_argv
+_initialize_narrow_environment
+_get_initial_narrow_environment
+_initterm
+_initterm_e
+exit
+_exit
+_set_fmode
+__p___argc
+__p___argv
+_cexit
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+_controlfp_s
+terminate
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+GetModuleHandleW
+KERNEL32.dll
+1>=&1
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0A0j0
+0/1W1e1v1
+3S3,454@4G4g4m4s4y4
+5"525;5
+5#626E6Q6a6r6
+6C7P7w7
+8L8U8i8o8
+91:7:
+:K;P;c;q;
+;+<4<<<x<
+=!='=-=3=9=?=E=K=Q=W=]=c=i=o=u={=
+1L5P5l5p5
