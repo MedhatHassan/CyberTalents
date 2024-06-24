@@ -23,6 +23,18 @@ C:/mingw810/src/gcc-8.1.0/libgcc
 
 The program in C/C++
 
+### Scan with readpe
+`readpe --header optional Challenge.exe`
+*you can find the output in [readpeOut](readpeOut.txt)*
+```
+Entrypoint:                      0x14e0
+    Address of .text section:        0x1000
+    ImageBase:                       0x133337
+```
+
+the virtual entrypoint address is image base address + entry point address : 0x134817
+
+flag{0x14e0|0x133337|0x134817}
 
 
 >Find More on ==> github.com/MedhatHassan 

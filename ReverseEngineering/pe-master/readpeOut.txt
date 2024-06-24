@@ -1,0 +1,35 @@
+Optional/Image header
+    Magic number:                    0x20b (PE32+)
+    Linker major version:            2
+    Linker minor version:            30
+    Size of .text section:           0x1e00
+    Size of .data section:           0x3800
+    Size of .bss section:            0xa00
+    Entrypoint:                      0x14e0
+    Address of .text section:        0x1000
+    ImageBase:                       0x133337
+    Alignment of sections:           0x1000
+    Alignment factor:                0x200
+    Major version of required OS:    4
+    Minor version of required OS:    0
+    Major version of image:          0
+    Minor version of image:          0
+    Major version of subsystem:      5
+    Minor version of subsystem:      2
+    Win32 version value:             0
+        Overwrite OS major version:      (default)
+        Overwrite OS minor version:      (default)
+        Overwrite OS build number:       (default)
+        Overwrite OS platform id:        (default)
+    Size of image:                   0x12000
+    Size of headers:                 0x400
+    Checksum:                        0x12184
+    Subsystem required:              0x3 (IMAGE_SUBSYSTEM_WINDOWS_CUI)
+    DLL characteristics:             0
+    DLL characteristics names
+    Size of stack to reserve:        0x200000
+    Size of stack to commit:         0x1000
+    Size of heap space to reserve:   0x100000
+    Size of heap space to commit:    0x1000
+    Loader Flags:                    0
+    Loader Flags names
