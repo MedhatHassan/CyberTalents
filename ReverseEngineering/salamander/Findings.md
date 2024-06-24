@@ -1,5 +1,5 @@
-# Solve salamander.exe
-#### https://cybertalents.com/challenges/malware/salamander.exe
+# Solve salamander
+#### https://cybertalents.com/challenges/malware/salamander
 
 ### Try to run
 ![alt text](image.png)

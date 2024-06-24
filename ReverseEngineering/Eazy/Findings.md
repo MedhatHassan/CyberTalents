@@ -1,5 +1,5 @@
-# Solve Eazy.exe
-#### https://cybertalents.com/challenges/malware/Eazy.exe
+# Solve Eazy
+#### https://cybertalents.com/challenges/malware/Eazy
 
 ### Try to run
 ![alt text](image.png)

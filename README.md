@@ -34,6 +34,7 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [Salamander](ReverseEngineering/salamander/Findings.md)
   - [Eazy](ReverseEngineering/Eazy/Findings.md)
   - [ELF-Master](ReverseEngineering/ELF-Master/Findings.md)
+  - [Pe Master](ReverseEngineering/pe-master/Findings.md)
   
 - [Machines](Machines)
   - [Shadower](Machines/shadower/Findings.md)  

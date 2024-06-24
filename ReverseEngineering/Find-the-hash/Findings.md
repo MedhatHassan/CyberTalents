@@ -1,5 +1,5 @@
-# Solve Find-the-hash.exe
-#### https://cybertalents.com/challenges/malware/Find-the-hash.exe
+# Solve Find-the-hash
+#### https://cybertalents.com/challenges/malware/Find-the-hash
 
 ### Try to run
 ![alt text](image.png)
