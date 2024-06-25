@@ -1,0 +1,4 @@
+# Dirsearch started Tue Jun 25 01:09:23 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://wcamxwl32pue3e6m7qyz8dru9zwpj6zqdkgxu639-web.cybertalentslabs.com -x 403,404 -o /home/m_1337/Downloads/Cyber-Talents-Laps/Web/the-dark-lord/Directories.txt
+
+200     1KB  http://wcamxwl32pue3e6m7qyz8dru9zwpj6zqdkgxu639-web.cybertalentslabs.com/source.php
+200     0B   http://wcamxwl32pue3e6m7qyz8dru9zwpj6zqdkgxu639-web.cybertalentslabs.com/user.php

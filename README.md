@@ -81,6 +81,10 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [V13w3r](Web/v13w3r/Findings.md)
   - [hidden](Web/hidden/Findings.md)
   - [black inc](Web/black-inc/Findings.md)
+  - [Inbox](Web/Inbox/Findings.md)
+  - [The dark lord](Web/the-dark-lord/Findings.md)
+  - [easy win](Web/easywin/Findings.md)
+  - [bean](Web/bean/Findings.md)
 
 - [Cryptography](Cryptography)
   - [Hide Data](Cryptography/HideData/Findings.md)   
