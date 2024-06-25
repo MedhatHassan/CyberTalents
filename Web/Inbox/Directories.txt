@@ -1,0 +1,3 @@
+# Dirsearch started Mon Jun 24 23:59:45 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://wcamxwl32pue3e6m86dv9q5i4vlgj6zqdkgxu639-web.cybertalentslabs.com -x 403,404 -o /home/m_1337/Downloads/Cyber-Talents-Laps/Web/Inbox/Directories.txt
+
+301   286B   http://wcamxwl32pue3e6m86dv9q5i4vlgj6zqdkgxu639-web.cybertalentslabs.com/data    -> REDIRECTS TO: http://wcamxwl32pue3e6m86dv9q5i4vlgj6zqdkgxu639-web.cybertalentslabs.com/data/

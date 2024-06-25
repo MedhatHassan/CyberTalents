@@ -35,6 +35,7 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [Eazy](ReverseEngineering/Eazy/Findings.md)
   - [ELF-Master](ReverseEngineering/ELF-Master/Findings.md)
   - [Pe Master](ReverseEngineering/pe-master/Findings.md)
+  - [m0v](ReverseEngineering/m0v/Findings.md)
   
 - [Machines](Machines)
   - [Shadower](Machines/shadower/Findings.md)  
@@ -79,7 +80,7 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [join team](Web/join-team/Findings.md)
   - [V13w3r](Web/v13w3r/Findings.md)
   - [hidden](Web/hidden/Findings.md)
-  
+  - [black inc](Web/black-inc/Findings.md)
 
 - [Cryptography](Cryptography)
   - [Hide Data](Cryptography/HideData/Findings.md)   
