@@ -22,7 +22,7 @@ ZGXvvZJmde+9jOKAg++9lO+9hWNobmnvvZF1ZeKAr3RoYXTigIHOmeKAgdGB772BbuKAge+9lXNl
 aGlkZSB0aGUgc2VjcmV0ITwvZGl2Pg0K
 """
 
-# Decoding Base64 strings
+
 decoded_text_plain = base64.b64decode(base64_text_plain).decode("utf-8")
 decoded_text_html = base64.b64decode(base64_text_html).decode("utf-8")
 
