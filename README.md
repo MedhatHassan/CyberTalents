@@ -93,6 +93,9 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [RSA 101](Cryptography/RSA101/Findings.md)
   - [UP](Cryptography/UP/Findings.md)
   - [b1rb](Cryptography/b1rb/Findings.md)
+  - [Hash3rror](Cryptography/Hash3rror/Findings.md)
+  - [HideData](Cryptography/HideData/Findings.md)
+  
 - [Mobile](Mobile)
     
 ## Getting Started
