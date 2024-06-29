@@ -1,4 +1,4 @@
-# Cyber-Talents-Laps
+# CyberTalents
 ![cyber talents](https://cybertalents.com/images/logo-footer.png)
 
 Welcome to the Cyber Talents Laps repository! This project contains solutions and write-ups for various challenges from the Cyber Talents platform.
