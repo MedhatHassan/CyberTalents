@@ -1,11 +1,11 @@
-# Cyber-Talents
+# Cyber-Talents-Laps
 ![cyber talents](https://cybertalents.com/images/logo-footer.png)
 
 Welcome to the Cyber Talents repository! This project contains solutions and write-ups for various challenges from the Cyber Talents platform.
 
 ## Table of Contents
 
-- [Cyber-Talents](#cyber-talents)
+- [Cyber-Talents-Laps](#cyber-talents-laps)
   - [Table of Contents](#table-of-contents)
   - [Challenges](#challenges)
   - [Getting Started](#getting-started)
