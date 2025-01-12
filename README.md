@@ -1,11 +1,11 @@
-# Cyber-Talents-Laps
+# Cyber-Talents
 ![cyber talents](https://cybertalents.com/images/logo-footer.png)
 
 Welcome to the Cyber Talents repository! This project contains solutions and write-ups for various challenges from the Cyber Talents platform.
 
 ## Table of Contents
 
-- [Cyber-Talents-Laps](#cyber-talents-laps)
+- [Cyber-Talents](#cyber-talents)
   - [Table of Contents](#table-of-contents)
   - [Challenges](#challenges)
   - [Getting Started](#getting-started)
@@ -95,6 +95,8 @@ Explore the challenges and their corresponding solutions categorized by topic:
   - [b1rb](Cryptography/b1rb/Findings.md)
   - [Hash3rror](Cryptography/Hash3rror/Findings.md)
   - [HideData](Cryptography/HideData/Findings.md)
+  - [genfei](Cryptography/genfei/Findings.md)
+  - [G(OLD)](Cryptography/G(OLD)/Findings.md)
   
 - [Mobile](Mobile)
     
