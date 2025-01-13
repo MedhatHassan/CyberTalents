@@ -1,0 +1,72 @@
+=== UDP Payloads ===
+UDP Payload 1:
+  Hex Decoded: xQ7JZyQ'Ok:ٙBxtV#Xސ3|eeLȑ&eH_,:$K
+  Base64 Decoded: N_v߽wkM6᧜m^M5]oG5ӷ}5n6{vZz4վtow{ݝium~]Ӯ뇝omzݺq]iݶ{Ms}{wiqy8}^Ѿu7}}u9my߿;׷{~zm{~[ٮ]];wVm}woWWm9{]m4{Nvշuwgkf{g\ͷ;y|ut}{;랹osuۮ_{wݯ_uێG6M4
+----------------------------------------
+UDP Payload 2:
+  Hex Decoded: xQ7J$)Հ|UˡwFuu
+                             ~aO        nk/9y.^r(et/'p[iipK5 b^r_n$G^%t5A>/k#TєQg87;    uɆuS-龪Bj]x
+  Base64 Decoded: Decoding failed: Incorrect padding
+----------------------------------------
+UDP Payload 3:
+  Hex Decoded: xQ7sJMSm͟JMQsy^Gfg
+f|!h?!                           $hq1Z*ɞ
+      c?>oQtu//RG&Tit#9Ԕ&
+aqq?
+    8
+     :?WГ6@ɟG=Hטr}3"wWJ|+(*~s"I:        M
+  Base64 Decoded: Decoding failed: Incorrect padding
+----------------------------------------
+UDP Payload 4:
+  Hex Decoded: xQ73J"he_Xo[fb]WdPj$"80cbN<ۘsv?mF>h7JpxPs@ Fa]c|2&F5nFY"܉tv/^{+x`޾)       =ᯛޅY*.d츁T
+  Base64 Decoded: Decoding failed: Incorrect padding
+----------------------------------------
+UDP Payload 5:
+  Hex Decoded: xQ7JܰV3]%cBX|mF}#sʑjc
+                                    #-2z5tf|쵅ـ+=!=ǚ)xCH9xE{A!6?DKa?W[rt'.l!R4"lcO0Qh]TuZkk.B=HG7
+  Base64 Decoded: Decoding failed: Incorrect padding
+----------------------------------------
+=== TCP Payloads ===
+TCP Payload 1:
+  Hex Decoded: 3.]sa5zDKp˚3Uy&${TA19
+  Base64 Decoded: ׽7}4;q9ӎ]g\~Gߞzսm5u9^qZ}88~ۧtێ燼m5}w
+----------------------------------------
+TCP Payload 2:
+  Hex Decoded: 
+  Base64 Decoded: \M4M4
+----------------------------------------
+TCP Payload 3:
+  Hex Decoded: HHՉz9ȐA[.U/{(жsoPxA๮&ZMr>tZ~AZ-d+v]@j'B~s.
+>} KGg
+      9l4??'bDn!aKm
+                   RB9ރ{(G,n(b 
+                               b#:3HHeMG/gDyN}焺՚o|$ήjl^ǡFgK)ƅւ:T]t0(<=(.$@m
+                                                                            B2љKz{TjN\hi@'e}{t&D
+  Base64 Decoded: Decoding failed: Incorrect padding
+----------------------------------------
+TCP Payload 4:
+  Hex Decoded: 2+N_;9ֹGTMeD
+                          F&nј*)        0
+  Base64 Decoded: Decoding failed: Incorrect padding
+----------------------------------------
+TCP Payload 5:
+  Hex Decoded: DjQR-:h"X&OG-nk= hӇ5ZEǅ/a-o
+  Base64 Decoded: Decoding failed: Incorrect padding
+----------------------------------------
+=== ICMP Payloads ===
+ICMP Payload 1:
+  Hex Decoded: E*;G~uXPP b58
+  Base64 Decoded: 4MM5M4ݽ:;sF];sN|MxNtM4M4M4M4M6M4fM4ߝM4M4M4M4M4M4M4M4M4M4M4M4M4
+----------------------------------------
+ICMP Payload 2:
+  Hex Decoded: E*;k~u4PP d34
+  Base64 Decoded: 4MM5M4ݽ:ΛsF];sNMxNtM4M4M4M4M6M4뇺M4}M4M4M4M4M4M4M4M4M4M4M4M4M4
+----------------------------------------
+ICMP Payload 3:
+  Hex Decoded: E*;O~uPPP b50
+  Base64 Decoded: 4MM5M4ݽ:sF];sNtMxNtM4M4M4M4M6M4gM4ߝM4M4M4M4M4M4M4M4M4M4M4M4M4
+----------------------------------------
+ICMP Payload 4:
+  Hex Decoded: E*;O~uPPP b50
+  Base64 Decoded: 4MM5M4ݽ:sF];sNtMxNtM4M4M4M4M6M4gM4ߝM4M4M4M4M4M4M4M4M4M4M4M4M4
+----------------------------------------
