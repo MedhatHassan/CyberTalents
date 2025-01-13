@@ -1,0 +1,351 @@
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /record/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 141
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 35
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 3031
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 125
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 35
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 3019
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 35
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 131
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 37
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 123
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 35
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 125
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 3861
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 613
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 631
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 521
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 1073
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 3869
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 57
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 643
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 791
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 531
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 55
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 515
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 75
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 651
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP POST Request:
+POST /result/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Content-Type: application/x-www-form-urlencoded
+Host: 192.168.1.11:7788
+Content-Length: 35
+Expect: 100-continue
+Connection: Keep-Alive
+
+
+----------------------------------------

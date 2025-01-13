@@ -1,0 +1,1638 @@
+Source IP: 192.168.1.4
+Destination IP: 213.158.175.121
+HTTP GET Request:
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab?e25a4b93245736fe HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/10.0
+Host: ctldl.windowsupdate.com
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 2.23.12.74
+HTTP GET Request:
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab?f800ec19a840823b HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/10.0
+Host: ctldl.windowsupdate.com
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 2.23.12.74
+HTTP GET Request:
+GET /msdownload/update/v3/static/trustedr/en/authrootstl.cab?1a95130ccf7ff0b7 HTTP/1.1
+Connection: Keep-Alive
+Accept: */*
+If-Modified-Since: Thu, 24 Feb 2022 19:15:35 GMT
+If-None-Match: "80252ce6b229d81:0"
+User-Agent: Microsoft-CryptoAPI/10.0
+Host: ctldl.windowsupdate.com
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /down/razer/host.ps1 HTTP/1.1
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
+Source IP: 192.168.1.4
+Destination IP: 192.168.1.11
+HTTP GET Request:
+GET /task/razer HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.14393.693
+Host: 192.168.1.11:7788
+Connection: Keep-Alive
+
+
+----------------------------------------
