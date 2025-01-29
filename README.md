@@ -14,95 +14,91 @@ Welcome to the Cyber Talents repository! This project contains solutions and wri
     - [DROP a star 🌟 if you find it helpful. Happy learning and happy hacking‼️](#drop-a-star--if-you-find-it-helpful-happy-learning-and-happy-hacking️)
 
 ## Challenges
-Explore the challenges and their corresponding solutions categorized by topic:
+Explore the challenges and their corresponding solutions categorized by topic and level:
 
-- [Reverse Engineering](ReverseEngineering)
-  - [Bruteforce Me](ReverseEngineering/Bruteforce%20Me/Findings.md)   
-  - [Eye of Sauron](ReverseEngineering/EyeofSauron/Findings.md)   
-  - [Find the pass](ReverseEngineering/Find%20the%20Pass/Findings.md)   
-  - [GUI I](ReverseEngineering/GUI_I/Findings.md)   
-  - [Get rid of them all](ReverseEngineering/Get-rid-of-them-all/Findings.md)   
-  - [Pure Luck](ReverseEngineering/Pure-Luck/Findings.md)   
-  - [Getting started](ReverseEngineering/getting-started/Findings.md)   
-  - [Catchme](ReverseEngineering/Catchme/Findings.md)
-  - [Can You See Me](ReverseEngineering/CanYouSeeMe/Findings.md)
-  - [Elementary](ReverseEngineering/Elementary/Findings.md)
-  - [I love this guy](ReverseEngineering/Ilovethisguy/Findings.md)
-  - [pass](ReverseEngineering/pass/Findings.md)
-  - [Cloak and Dagger](ReverseEngineering/CloakandDagger/Findings.md)
-  - [Find the hash](ReverseEngineering/Find-the-hash/Findings.md)
-  - [Salamander](ReverseEngineering/salamander/Findings.md)
-  - [Eazy](ReverseEngineering/Eazy/Findings.md)
-  - [ELF-Master](ReverseEngineering/ELF-Master/Findings.md)
-  - [Pe Master](ReverseEngineering/pe-master/Findings.md)
-  - [m0v](ReverseEngineering/m0v/Findings.md)
-  
-- [Machines](Machines)
-  - [Shadower](Machines/shadower/Findings.md)  
-  - [Version](Machines/version/Findings.md)  
-  - [Reports](Machines/reports/Findings.md)
-  - [Remote CVE](Machines/remote-CVE/Findings.md)
-  - [Thonk](Machines/Thonk/Findings.md)
-  
-- [Web](Web)
-  - [Admin has the power](Web/Adminhasthepower/Findings.md)   
-  - [Cheers](Web/Cheers/Findings.md)
-  - [Cool Name Effect](Web/CoolNameEffect/Findings.md)   
-  - [Encrypted Database](Web/EncryptedDatabase/Findings.md)   
-  - [Easy access](Web/EasyAccess/Findings.md)   
-  - [Hashable](Web/Hashable/Findings.md)   
-  - [I am Legend](Web/IamLegend/Findings.md)   
-  - [The Restricted Sessions](Web/TheRestrictedSessions/Findings.md)   
-  - [bypass the world](Web/bypasstheworld/Findings.md) 
-  - [T-jungle](Web/T-jungle/Findings.md) 
-  - [Secret Browser](Web/SecretBrowser/Findings.md)
-  - [Secret Blog](Web/SecretBlog/Findings.md)   
-  - [Reports](Web/reports/Findings.md)
-  - [Maximum Courage](Web/MaximumCourage/Findings.md)
-  - [Blue Inc](Web/blue-inc/Findings.md)
-  - [Newsletter](Web/Newsletter/Findings.md)
-  - [Easy Message](Web/easy-message/Findings.md)
-  - [Concmarks](Web/concmarks/Findings.md)
-  - [Private Agent](Web/private-agent/Findings.md)
-  - [Comrade III](Web/comrade-iii/Findings.md)
-  - [Silly Doors](Web/silly-doors/Findings.md)
-  - [Admin Gate First](Web/admin-gate-first/Findings.md)
-  - [Global](Web/global/Findings.md)
-  - [X Corp](Web/x-corp/Findings.md)
-  - [Got Controls](Web/got-controls/Findings.md)
-  - [Who Is Admin](Web/WhoIsAdmin/Findings.md)
-  - [Book Lover](Web/book-lover/Findings.md)
-  - [Screenshot](Web/screenshot/Findings.md)
-  - [Owls blog](Web/owls-blog/Findings.md)
-  - [Big number](Web/big-number/Findings.md)
-  - [Catchtoka](Web/catchtoka/Findings.md)
-  - [catch me if you can](Web/catch-me-if-you-can/Findings.md)
-  - [join team](Web/join-team/Findings.md)
-  - [V13w3r](Web/v13w3r/Findings.md)
-  - [hidden](Web/hidden/Findings.md)
-  - [black inc](Web/black-inc/Findings.md)
-  - [Inbox](Web/Inbox/Findings.md)
-  - [The dark lord](Web/the-dark-lord/Findings.md)
-  - [easy win](Web/easywin/Findings.md)
-  - [bean](Web/bean/Findings.md)
+| Category          | Challenge Writeup                                                                 | Level  | Points |
+|-------------------|---------------------------------------------------------------------------|--------|--------|
+| ReverseEngineering | [ELF-Master](ReverseEngineering/ELF-Master/Findings.md)                   | Hard   | 200    |
+| ReverseEngineering | [Pe Master](ReverseEngineering/pe-master/Findings.md)                     | Hard   | 200    |
+| ReverseEngineering | [m0v](ReverseEngineering/m0v/Findings.md)                                 | Hard   | 200    |
+| ReverseEngineering | [Pure Luck](ReverseEngineering/Pure-Luck/Findings.md)                     | Medium | 100    |
+| ReverseEngineering | [Catchme](ReverseEngineering/Catchme/Findings.md)                         | Medium | 100    |
+| ReverseEngineering | [Can You See Me](ReverseEngineering/CanYouSeeMe/Findings.md)              | Medium | 100    |
+| ReverseEngineering | [I love this guy](ReverseEngineering/Ilovethisguy/Findings.md)            | Medium | 100    |
+| ReverseEngineering | [Cloak and Dagger](ReverseEngineering/CloakandDagger/Findings.md)         | Medium | 100    |
+| ReverseEngineering | [Find the hash](ReverseEngineering/Find-the-hash/Findings.md)             | Medium | 100    |
+| ReverseEngineering | [Salamander](ReverseEngineering/salamander/Findings.md)                   | Medium | 100    |
+| ReverseEngineering | [GUI I](ReverseEngineering/GUI_I/Findings.md)                             | Medium | 100    |
+| ReverseEngineering | [Eye of Sauron](ReverseEngineering/EyeofSauron/Findings.md)               | Medium | 100    |
+| ReverseEngineering | [Eazy](ReverseEngineering/Eazy/Findings.md)                               | Easy   | 50     |
+| ReverseEngineering | [Bruteforce Me](ReverseEngineering/Bruteforce%20Me/Findings.md)           | Easy   | 50     |
+| ReverseEngineering | [Find the pass](ReverseEngineering/Find%20the%20Pass/Findings.md)         | Easy   | 50     |
+| ReverseEngineering | [pass](ReverseEngineering/pass/Findings.md)                               | Easy   | 50     |
+| ReverseEngineering | [Getting started](ReverseEngineering/getting-started/Findings.md)         | Easy   | 50     |
+| Machines           | [Remote CVE](Machines/remote-CVE/Findings.md)                             | Medium | 100    |
+| Machines           | [Shadower](Machines/shadower/Findings.md)                                 | Medium | 100    |
+| Machines           | [Thonk](Machines/Thonk/Findings.md)                                       | Medium | 100    |
+| Machines           | [Version](Machines/version/Findings.md)                                   | Easy   | 50     |
+| Machines           | [Reports](Machines/reports/Findings.md)                                   | Easy   | 50     |
+| Web                | [bypass the world](Web/bypasstheworld/Findings.md)                        | Medium | 100    |
+| Web                | [Encrypted Database](Web/EncryptedDatabase/Findings.md)                   | Medium | 100    |
+| Web                | [Hashable](Web/Hashable/Findings.md)                                      | Medium | 100    |
+| Web                | [I am Legend](Web/IamLegend/Findings.md)                                  | Medium | 100    |
+| Web                | [The Restricted Sessions](Web/TheRestrictedSessions/Findings.md)          | Medium | 100    |
+| Web                | [T-jungle](Web/T-jungle/Findings.md)                                      | Medium | 100    |
+| Web                | [Secret Browser](Web/SecretBrowser/Findings.md)                           | Medium | 100    |
+| Web                | [Secret Blog](Web/SecretBlog/Findings.md)                                 | Medium | 100    |
+| Web                | [Maximum Courage](Web/MaximumCourage/Findings.md)                         | Medium | 100    |
+| Web                | [Blue Inc](Web/blue-inc/Findings.md)                                      | Medium | 100    |
+| Web                | [Concmarks](Web/concmarks/Findings.md)                                    | Medium | 100    |
+| Web                | [Private Agent](Web/private-agent/Findings.md)                            | Medium | 100    |
+| Web                | [Comrade III](Web/comrade-iii/Findings.md)                                | Medium | 100    |
+| Web                | [Silly Doors](Web/silly-doors/Findings.md)                                | Medium | 100    |
+| Web                | [Admin Gate First](Web/admin-gate-first/Findings.md)                      | Medium | 100    |
+| Web                | [Global](Web/global/Findings.md)                                          | Medium | 100    |
+| Web                | [X Corp](Web/x-corp/Findings.md)                                          | Medium | 100    |
+| Web                | [Got Controls](Web/got-controls/Findings.md)                              | Medium | 100    |
+| Web                | [Who Is Admin](Web/WhoIsAdmin/Findings.md)                                | Medium | 100    |
+| Web                | [Book Lover](Web/book-lover/Findings.md)                                  | Medium | 100    |
+| Web                | [Screenshot](Web/screenshot/Findings.md)                                  | Medium | 100    |
+| Web                | [Owls blog](Web/owls-blog/Findings.md)                                    | Medium | 100    |
+| Web                | [Big number](Web/big-number/Findings.md)                                  | Medium | 100    |
+| Web                | [Catchtoka](Web/catchtoka/Findings.md)                                    | Medium | 100    |
+| Web                | [catch me if you can](Web/catch-me-if-you-can/Findings.md)                | Medium | 100    |
+| Web                | [join team](Web/join-team/Findings.md)                                    | Medium | 100    |
+| Web                | [V13w3r](Web/v13w3r/Findings.md)                                          | Medium | 100    |
+| Web                | [hidden](Web/hidden/Findings.md)                                          | Medium | 100    |
+| Web                | [black inc](Web/black-inc/Findings.md)                                    | Medium | 100    |
+| Web                | [Inbox](Web/Inbox/Findings.md)                                            | Medium | 100    |
+| Web                | [The dark lord](Web/the-dark-lord/Findings.md)                            | Medium | 100    |
+| Web                | [Admin has the power](Web/Adminhasthepower/Findings.md)                   | Easy   | 50     |
+| Web                | [Cheers](Web/Cheers/Findings.md)                                          | Easy   | 50     |
+| Web                | [Cool Name Effect](Web/CoolNameEffect/Findings.md)                        | Easy   | 50     |
+| Web                | [Easy access](Web/EasyAccess/Findings.md)                                 | Easy   | 50     |
+| Web                | [Reports](Web/reports/Findings.md)                                        | Easy   | 50     |
+| Web                | [Newsletter](Web/Newsletter/Findings.md)                                  | Easy   | 50     |
+| Web                | [Easy Message](Web/easy-message/Findings.md)                              | Easy   | 50     |
+| Web                | [Bean](Web/bean/Findings.md)                                              | Easy   | 50     |
+| Web                | [Maxium Courage](Web/MaximumCourage/Findings.md)                         | Easy   | 50     |
+| Web                | [X Corp](Web/x-corp/Findings.md)                                          | Easy   | 50     |
+| Web                | [Up](Web/up/Findings.md)                                                 | Easy   | 50     |
+| Web                | [Thonk](Web/thonk/Findings.md)                                           | Easy   | 50     |
+| Web                | [Silly Doors](Web/silly-doors/Findings.md)                                | Easy   | 50     |
+| Web                | [Cheers](Web/cheers/Findings.md)                                          | Easy   | 50     |
+| Cryptography       | [RSA 101](Cryptography/RSA101/Findings.md)                                | Easy   | 50     |
+| Cryptography       | [HideData](Cryptography/HideData/Findings.md)                             | Medium | 100    |
+| Cryptography       | [genfei](Cryptography/genfei/Findings.md)                                 | Medium | 100    |
+| Cryptography       | [G(OLD)](Cryptography/G(OLD)/Findings.md)                                 | Medium | 100    |
+| Cryptography       | [UP](Cryptography/UP/Findings.md)                                         | Medium | 100    |
+| Cryptography       | [b1rb](Cryptography/b1rb/Findings.md)                                     | Medium | 100    |
+| Cryptography       | [Hash3rror](Cryptography/Hash3rror/Findings.md)                           | Medium | 100    |
+| Cryptography       | [Hide Data](Cryptography/HideData/Findings.md)                            | Medium | 100    |
+| Cryptography       | [Postbase](Cryptography/Postbase/Findings.md)                             | Medium | 100    |
+| Cryptography       | [Louder](Cryptography/Louder/Findings.md)                                 | Medium | 100    |
+| NetworkSecurity    | [ARP Storm](NetworkSecurity/ARP%20Storm/Findings.md)                      | Medium | 100    |
+| NetworkSecurity    | [Arson](NetworkSecurity/Arson/Findings.md)                                | Medium | 100    |
+| NetworkSecurity    | [Missey](NetworkSecurity/Missey/Findings.md)                              | Medium | 100    |
 
-- [Cryptography](Cryptography)
-  - [Hide Data](Cryptography/HideData/Findings.md)   
-  - [Louder](Cryptography/Louder/Findings.md)   
-  - [Postbase](Cryptography/Postbase/Findings.md)   
-  - [RSA 101](Cryptography/RSA101/Findings.md)
-  - [UP](Cryptography/UP/Findings.md)
-  - [b1rb](Cryptography/b1rb/Findings.md)
-  - [Hash3rror](Cryptography/Hash3rror/Findings.md)
-  - [HideData](Cryptography/HideData/Findings.md)
-  - [genfei](Cryptography/genfei/Findings.md)
-  - [G(OLD)](Cryptography/G(OLD)/Findings.md)
-  
-- [Network Security](NetworkSecurity)
-  -  [ARP Storm](<NetworkSecurity/ARP Storm/Findings.md>)
-  -  [Arson](NetworkSecurity/Arson/Findings.md)
-  -  [Missey](NetworkSecurity/Missey/Findings.md)
-- [Mobile](Mobile)
     
 ## Getting Started
 
