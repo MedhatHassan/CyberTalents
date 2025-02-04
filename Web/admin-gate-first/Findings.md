@@ -10,7 +10,7 @@
 ### Login with test/test
 ![alt text](images/image-1.png)
 
-in the cookies we found a JWT tokin
+in the cookies we found a JWT token
 `eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjoie1widXNlcm5hbWVcIjpcInRlc3RcIixcInJvbGVcIjpcInVzZXJcIn0ifQ.XSPy0jZd8CEtHl2e3C1SjPaewco1tjO3iajbkJy2OFQ` 
 
 ### Decode with JWT.io 
@@ -25,7 +25,11 @@ in the cookies we found a JWT tokin
   "data": "{\"username\":\"test\",\"role\":\"user\"}"
 }
 ```
-### Crack the JWT
+### Crack the JWT HS256 Signature
+```bash
+hashcat -m 16500 -a 0 jwt.txt <wordlist>
+```
+
 we found the Signature `123456`
 
 ### Edit the JWT Token
@@ -46,7 +50,7 @@ The new Token:
 edit the cookie with the new Token
 ![alt text](images/image-2.png)
 
-### Resorces 
+### Resources 
 [jwt.io](https://jwt.io/)
 [jwt cracker](https://github.com/brendan-rius/c-jwt-cracker)
 >Find More on ==> github.com/MedhatHassan 
