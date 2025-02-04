@@ -4,7 +4,7 @@
 ![alt text](image.png)
 ### Run Directory bruteforce
 `dirsearch -u http://wcamxwl32pue3e6mg23g207f834kj6zqdkgxu639-web.cybertalentslabs.com -x 403,404`
-No ouput
+No output
 
 ### Analyze request with burp
 ```
@@ -18,7 +18,7 @@ Connection: close
 Cookie: _ga_B38952S5RT=GS1.1.1718765785.1.1.1718765798.47.0.0; _ga=GA1.1.1474852010.1718765786; _clck=yv78z1%7C2%7Cfmr%7C0%7C1631; ajs_anonymous_id=79cb6015-fb56-43db-bbe9-121c0fe1885e; _fbp=fb.1.1718765789636.122478108392360263; _ga_S72LBY47R8=GS1.1.1718766980.1.1.1718767179.0.0.0
 Upgrade-Insecure-Requests: 1
 ```
-Change `Accept-Language` to `Accept-Language: de` For Gemrman
+Change `Accept-Language` to `Accept-Language: de` For German  
 
 ![alt text](image-1.png)
 >Find More on ==> github.com/MedhatHassan 
