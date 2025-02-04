@@ -104,11 +104,11 @@ Explore the challenges and their corresponding solutions categorized by topic an
 
 1. **Clone the Repository:**
 ```bash
-   git clone https://github.com/MedhatHassan/Cyber-Talents-Laps.git
+   git clone https://github.com/MedhatHassan/CyberTalents.git
 ```
 2. **Navigate to a Specific Challenge:**
 ```bash
-cd Cyber-Talents-Laps/Category/ChallengeName
+cd CyberTalents/Category/ChallengeName
 ```
 3. **Explore the Write-ups:** <br>
 Review the solution files and write-ups to understand the approach and techniques used to solve the challenges.
