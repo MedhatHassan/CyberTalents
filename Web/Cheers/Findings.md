@@ -29,5 +29,3 @@ http://wcamxwl32pue3e6mekgvdqyu93rqj6zqdkgxu639-web.cybertalentslabs.com/index.p
 ```
 
 ![alt text](images/image-2.png)
-
-Run Directory bruteforce
