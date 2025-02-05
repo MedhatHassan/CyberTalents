@@ -42,7 +42,8 @@ Explore the challenges and their corresponding solutions categorized by topic an
 | Machines           | [Reports](Machines/reports/Findings.md)                                   | Easy   | 50     |
 | Web                | [Book Lover](Web/book-lover/Findings.md)                                  | Hard   | 200    |
 | Web                | [Screenshot](Web/screenshot/Findings.md)                                  | hard   | 200    |
-| Web                | [String highlighter](Web/string-highlighter/Findings.md)                                  | hard   | 200    |
+| Web                | [String highlighter](Web/string-highlighter/Findings.md)                  | hard   | 200    |
+| Web                | [New](Web/string-highlighter/Findings.md)                  | hard   | 200    |
 | Web                | [bypass the world](Web/bypasstheworld/Findings.md)                        | Medium | 100    |
 | Web                | [Encrypted Database](Web/EncryptedDatabase/Findings.md)                   | Medium | 100    |
 | Web                | [Hashable](Web/Hashable/Findings.md)                                      | Medium | 100    |
