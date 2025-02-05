@@ -1,0 +1,4 @@
+# Dirsearch started Wed Feb  5 15:37:16 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://wcamxwl32pue3e6m4m236xeigz01j6zqdkgxu639-web.cybertalentslabs.com -x 403,404 -o /home/m_1337/Downloads/CyberTalents/Web/space/Directories.txt
+
+200   179B   http://wcamxwl32pue3e6m4m236xeigz01j6zqdkgxu639-web.cybertalentslabs.com/login.php
+200    41B   http://wcamxwl32pue3e6m4m236xeigz01j6zqdkgxu639-web.cybertalentslabs.com/robots.txt
