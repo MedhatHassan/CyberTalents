@@ -91,8 +91,7 @@ Explore the challenges and their corresponding solutions categorized by topic an
 | Web                | [Silly Doors](Web/silly-doors/Findings.md)                                | Easy   | 50     |
 | Web                | [Cheers](Web/cheers/Findings.md)                                          | Easy   | 50     |
 | Web                | [Dark side](Web/darkside/Findings.md)                                     | Easy   | 50     |
-| Cryptography       | [RSA 101](Cryptography/RSA101/Findings.md)                                | Easy   | 50     |
-| Cryptography       | [HideData](Cryptography/HideData/Findings.md)                             | Medium | 100    |
+| Cryptography       | [Ziggy](Cryptography/Ziggy/Findings.md)                                   | Medium | 100    |
 | Cryptography       | [genfei](Cryptography/genfei/Findings.md)                                 | Medium | 100    |
 | Cryptography       | [G(OLD)](Cryptography/G(OLD)/Findings.md)                                 | Medium | 100    |
 | Cryptography       | [UP](Cryptography/UP/Findings.md)                                         | Medium | 100    |
@@ -101,9 +100,13 @@ Explore the challenges and their corresponding solutions categorized by topic an
 | Cryptography       | [Hide Data](Cryptography/HideData/Findings.md)                            | Medium | 100    |
 | Cryptography       | [Postbase](Cryptography/Postbase/Findings.md)                             | Medium | 100    |
 | Cryptography       | [Louder](Cryptography/Louder/Findings.md)                                 | Medium | 100    |
+| Cryptography       | [RSA 101](Cryptography/RSA101/Findings.md)                                | Easy   | 50     |
+| Cryptography       | [HideData](Cryptography/HideData/Findings.md)                             | Medium | 100    |
 | NetworkSecurity    | [ARP Storm](NetworkSecurity/ARP%20Storm/Findings.md)                      | Medium | 100    |
 | NetworkSecurity    | [Arson](NetworkSecurity/Arson/Findings.md)                                | Medium | 100    |
 | NetworkSecurity    | [Missey](NetworkSecurity/Missey/Findings.md)                              | Medium | 100    |
+| Mobile             | [Android101](Mobile/Android101/Findings.md)                               | Medium | 100    |
+| Mobile             | [MobileAPP](Mobile/MobileAPP/Findings.md)                                 | Medium | 100    |
 
     
 ## Getting Started
