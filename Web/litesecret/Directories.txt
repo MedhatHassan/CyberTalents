@@ -1,0 +1,4 @@
+# Dirsearch started Sat Feb  8 19:20:35 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://wcamxwl32pue3e6mkgvdrq0i9zrqj6zqdkgxu639-web.cybertalentslabs.com -x 403,404 -o /home/m_1337/Downloads/CyberTalents/Web/litesecret/Directories.txt
+
+200     1KB  http://wcamxwl32pue3e6mkgvdrq0i9zrqj6zqdkgxu639-web.cybertalentslabs.com/login
+200     1KB  http://wcamxwl32pue3e6mkgvdrq0i9zrqj6zqdkgxu639-web.cybertalentslabs.com/login/
