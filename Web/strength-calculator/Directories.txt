@@ -1,0 +1,4 @@
+# Dirsearch started Thu Feb  6 18:07:08 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://wcamxwl32pue3e6mwl32pnnte3e6j6zqdkgxu639-web.cybertalentslabs.com -x 403,404 -o /home/m_1337/Downloads/CyberTalents/Web/strength-calculator/Directories.txt
+
+200     1KB  http://wcamxwl32pue3e6mwl32pnnte3e6j6zqdkgxu639-web.cybertalentslabs.com/source
+301   169B   http://wcamxwl32pue3e6mwl32pnnte3e6j6zqdkgxu639-web.cybertalentslabs.com/static    -> REDIRECTS TO: http://wcamxwl32pue3e6mwl32pnnte3e6j6zqdkgxu639-web.cybertalentslabs.com/static/

