@@ -41,6 +41,7 @@ Explore the challenges and their corresponding solutions categorized by topic an
 | Machines           | [Version](Machines/version/Findings.md)                                   | Easy   | 50     |
 | Machines           | [Reports](Machines/reports/Findings.md)                                   | Easy   | 50     |
 | Web                | [Book Lover](Web/book-lover/Findings.md)                                  | Hard   | 200    |
+| Web                | [Strength Calculator](Web/strength-calculator)                            | Hard   | 200    |
 | Web                | [Screenshot](Web/screenshot/Findings.md)                                  | Hard   | 200    |
 | Web                | [String highlighter](Web/string-highlighter/Findings.md)                  | Hard   | 200    |
 | Web                | [Wrong token](Web/wrong-token/Findings.md)                                | Hard   | 200    |
@@ -82,10 +83,10 @@ Explore the challenges and their corresponding solutions categorized by topic an
 | Web                | [Newsletter](Web/Newsletter/Findings.md)                                  | Easy   | 50     |
 | Web                | [Easy Message](Web/easy-message/Findings.md)                              | Easy   | 50     |
 | Web                | [Bean](Web/bean/Findings.md)                                              | Easy   | 50     |
-| Web                | [Maxium Courage](Web/MaximumCourage/Findings.md)                         | Easy   | 50     |
+| Web                | [Maxium Courage](Web/MaximumCourage/Findings.md)                          | Easy   | 50     |
 | Web                | [X Corp](Web/x-corp/Findings.md)                                          | Easy   | 50     |
-| Web                | [Up](Web/up/Findings.md)                                                 | Easy   | 50     |
-| Web                | [Thonk](Web/thonk/Findings.md)                                           | Easy   | 50     |
+| Web                | [Up](Web/up/Findings.md)                                                  | Easy   | 50     |
+| Web                | [Thonk](Web/thonk/Findings.md)                                            | Easy   | 50     |
 | Web                | [Silly Doors](Web/silly-doors/Findings.md)                                | Easy   | 50     |
 | Web                | [Cheers](Web/cheers/Findings.md)                                          | Easy   | 50     |
 | Cryptography       | [RSA 101](Cryptography/RSA101/Findings.md)                                | Easy   | 50     |
