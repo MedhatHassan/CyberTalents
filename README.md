@@ -47,6 +47,7 @@ Explore the challenges and their corresponding solutions categorized by topic an
 | Web                | [Wrong token](Web/wrong-token/Findings.md)                                | Hard   | 200    |
 | Web                | [Space](Web/space/Findings.md)                                            | Hard   | 200    |
 | Web                | [bypass the world](Web/bypasstheworld/Findings.md)                        | Medium | 100    |
+| Web                | [litesecret](Web/litesecret/Findings.md)                                  | Medium | 100    |
 | Web                | [Encrypted Database](Web/EncryptedDatabase/Findings.md)                   | Medium | 100    |
 | Web                | [Hashable](Web/Hashable/Findings.md)                                      | Medium | 100    |
 | Web                | [I am Legend](Web/IamLegend/Findings.md)                                  | Medium | 100    |
@@ -89,6 +90,7 @@ Explore the challenges and their corresponding solutions categorized by topic an
 | Web                | [Thonk](Web/thonk/Findings.md)                                            | Easy   | 50     |
 | Web                | [Silly Doors](Web/silly-doors/Findings.md)                                | Easy   | 50     |
 | Web                | [Cheers](Web/cheers/Findings.md)                                          | Easy   | 50     |
+| Web                | [Dark side](Web/darkside/Findings.md)                                     | Easy   | 50     |
 | Cryptography       | [RSA 101](Cryptography/RSA101/Findings.md)                                | Easy   | 50     |
 | Cryptography       | [HideData](Cryptography/HideData/Findings.md)                             | Medium | 100    |
 | Cryptography       | [genfei](Cryptography/genfei/Findings.md)                                 | Medium | 100    |
