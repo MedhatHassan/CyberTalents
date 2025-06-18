@@ -94,6 +94,8 @@ Explore the challenges and their corresponding solutions categorized by topic an
 | Cryptography       | [RedStoneAdmin](Cryptography/RedStoneAdmin/Findings.md)                   | Hard | 200    |
 | Cryptography       | [arithmetic](Cryptography/arithmetic/Findings.md)                         | Medium | 100    |
 | Cryptography       | [Ziggy](Cryptography/Ziggy/Findings.md)                                   | Medium | 100    |
+| Cryptography       | [0verl3p](Cryptography/0verl3p/Findings.md)                               | Medium | 100    |
+| Cryptography       | [Transposed](Cryptography/Transposed/Findings.md)                         | Medium | 100    |
 | Cryptography       | [genfei](Cryptography/genfei/Findings.md)                                 | Medium | 100    |
 | Cryptography       | [G(OLD)](Cryptography/G(OLD)/Findings.md)                                 | Medium | 100    |
 | Cryptography       | [UP](Cryptography/UP/Findings.md)                                         | Medium | 100    |
