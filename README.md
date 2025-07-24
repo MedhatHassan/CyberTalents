@@ -112,6 +112,7 @@ Explore the challenges and their corresponding solutions categorized by topic an
 | NetworkSecurity    | [Missey](NetworkSecurity/Missey/Findings.md)                              | Medium | 100    |
 | Mobile             | [Android101](Mobile/Android101/Findings.md)                               | Medium | 100    |
 | Mobile             | [MobileAPP](Mobile/MobileAPP/Findings.md)                                 | Medium | 100    |
+| Mobile             | [8kSec Battlegrounds](https://8ksec.io/battle/)                           | Medium | 100    |
 
     
 ## Getting Started
